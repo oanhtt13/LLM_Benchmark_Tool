@@ -1,6 +1,6 @@
 param(
     [string]$SourceDir = "source",
-    [string]$BuildDir = "build",
+    [string]$BuildDir = "/build",
     [string]$Builder = "html"
 )
 
