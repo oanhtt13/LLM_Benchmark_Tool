@@ -1,0 +1,3 @@
+sphinx>=5.0
+# Optional theme (uncomment to use):
+# sphinx-rtd-theme

@@ -1,0 +1,14 @@
+Getting Started
+===============
+
+Tài liệu này là mẫu khởi đầu.
+
+Hướng dẫn build (PowerShell):
+
+    # Cài Sphinx nếu chưa có
+    pip install -r requirements.txt
+
+    # Build HTML
+    sphinx-build -b html source build
+
+Hoặc chạy script `docs-build.ps1` (Windows PowerShell).
